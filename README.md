@@ -20,3 +20,6 @@ An example of using `DwmRegisterThumbnail` to completely replicate content from 
 
 - Modify the window class name in step 1 to match the window you want to clone
 - Implement your overlay graphics in the `CustomDraw` function where you have access to the overlay window object and dimensions
+
+![QQ_1750832483851](https://github.com/user-attachments/assets/541b2270-6130-4243-a047-c54a5d860a0e)
+
